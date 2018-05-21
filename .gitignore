@@ -1,2 +1,4 @@
-in.in
-out.out
+*.in
+*.out
+problem
+*.swp
